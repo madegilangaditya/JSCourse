@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "Post Twoking",
+      "body": "This is post Two",
+      "id": 2
+    },
+    {
+      "title": "sadasd",
+      "body": "Post body",
+      "id": 3
+    },
+    {
+      "title": "test image",
+      "body": "post 4",
+      "id": 4
+    },
+    {
+      "title": "sadasd",
+      "body": "asdmksamdkm",
+      "id": 5
+    },
+    {
+      "title": "Post 1 Anjing",
+      "body": "Post 12390",
+      "id": 6
+    }
+  ]
+}
